@@ -24,7 +24,12 @@ Install all prerequisites:
 
 ```pip install -r resources/requirements.txt```
 
-## Step 2. Training
+## Step 2. Download pre-trained models
+
+Download [pre-trained models](https://drive.google.com/open?id=1uSauSkfwJeumk73VoCsF9Em9KPvMEHas)
+and unzip the folder.
+
+## Step 3. Training
 
 To generate synthetic datasets:
 
@@ -45,7 +50,7 @@ Similarly, re-configure parameters in **train\_siamese.py** to train Siamese net
 * ```pos_lst.txt```: path to the file whose each line contains absolute path to a training image. 
 * Other parameters can be configured analogously to 4-Twins net.
 
-## Step 3. Prediction
+## Step 4. Prediction
 
 Execute:
 
