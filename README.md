@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 ![Image](./resources/vippdiism.png)
 
-=======
->>>>>>> b2279a30f46d31598123c0ed1ec229bdeabb564d
 # Multi-Branch CNN Copy Move Source-Target Disambiguation
 
 This repository is an implementation of the method in 
@@ -14,7 +11,6 @@ The disambiguation method allows to identify source and target region of a copy-
 CNN-based architecture, capable to learn suitable features by looking at the presence of interpolation  artifacts 
 and boundary inconsistencies.
 
-<<<<<<< HEAD
 Code implemented by Quoc-Tin Phan (dimmoon2511[at]gmail.com)
 
 
@@ -58,6 +54,3 @@ Execute:
 ```python predict_siamese.py```
 
 ```python predict_fusion.py```
-=======
-#  CODE AVAILABLE SOON
->>>>>>> b2279a30f46d31598123c0ed1ec229bdeabb564d
