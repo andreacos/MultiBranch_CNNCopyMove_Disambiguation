@@ -29,7 +29,7 @@ Install all prerequisites:
 Download [pre-trained models](https://drive.google.com/open?id=1uSauSkfwJeumk73VoCsF9Em9KPvMEHas)
 and unzip the folder.
 
-## Step 3. Training
+## Step 3 (optional). Training
 
 To generate synthetic datasets:
 
