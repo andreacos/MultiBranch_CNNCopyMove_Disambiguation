@@ -31,7 +31,7 @@ and unzip the folder.
 
 ## Step 3 (optional). Training
 
-To generate synthetic datasets:
+To generate synthetic datasets use the Matlab scripts in ./resources/db_gen:
 
 * For training 4-Twins net: ```run_create_scribble_db.m```.
 
