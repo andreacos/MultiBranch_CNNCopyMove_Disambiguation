@@ -26,7 +26,7 @@ Install all prerequisites:
 
 ## Step 2. Download pre-trained models
 
-Download [pre-trained models](https://drive.google.com/open?id=1uSauSkfwJeumk73VoCsF9Em9KPvMEHas)
+Download [pre-trained models](https://drive.google.com/file/d/1LS2Z8bLnL_non7Ibcl9QWd1zBGl_PAD6)
 and unzip the folder.
 
 ## Step 3 (optional). Training
