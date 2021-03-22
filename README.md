@@ -45,6 +45,7 @@ To train 4-Twins net, re-configure parameters in **train\_4twins.py**:
 * ```working_dir```: where to save the model and training logs.
 * ```pretrained_resnet```: directory of resnet50 pretrained on ImageNet (you can download from [here](http://download.tensorflow.org/models/resnet_v2_50_2017_04_14.tar.gz), and decompress into this directory).
 
+
 Similarly, re-configure parameters in **train\_siamese.py** to train Siamese net:
 
 * ```pos_lst.txt```: path to the file whose each line contains absolute path to a training image. 
