@@ -37,9 +37,7 @@ To generate synthetic datasets use the Matlab scripts in ./resources/db_gen:
 
 * For training Siamese net: ```run_create_scribble_rigid_cm_db.m```
 
-** Added on 17/05/2021 **. 
-
-The list of images used to train the networks is now available [here] (https://github.com/andreacos/MultiBranch_CNNCopyMove_Disambiguation/blob/master/resources/db_gen/TRAINING_SET.txt). To use it, proceed as follows:  
+**Added on 17/05/2021.** The list of images used to train the networks is now available [here] (https://github.com/andreacos/MultiBranch_CNNCopyMove_Disambiguation/blob/master/resources/db_gen/TRAINING_SET.txt). To use it, proceed as follows:  
 * download the three required datasets: RAISE2K, VISION and Dresden from their respective websites; 
 * use the list to move only the training images into a single folder; 
 * edit the [Matlab db generation code](https://github.com/andreacos/MultiBranch_CNNCopyMove_Disambiguation/blob/master/resources/db_gen/run_create_scribble_rigid_cm_db.m) to point to that folder (e.g. this line of code for the rigid case: `input_path  = '../datasets/RAISE_DRESDEN_VISION_mixed')`
