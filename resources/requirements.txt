@@ -1,6 +1,6 @@
 opencv_python==4.1.0.25
 numpy==1.16.4
-tensorflow==1.8.0
+tensorflow==2.6.4
 tqdm==4.32.1
 h5py==2.9.0
 scikit_learn==0.21.2
